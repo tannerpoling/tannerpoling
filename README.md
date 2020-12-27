@@ -1,5 +1,10 @@
-### Hi there 👋
+### welcome to my github profile :]  
+### my name's tanner, I like:  
+* 🌊 ocean techology  
+* 🎨 experimental art  
+* 💻 human-computer interaction  
 
+feel free to take a look at my starred projects for some of my favorite things I've worked on!
 <!--
 **tannerpoling/tannerpoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
