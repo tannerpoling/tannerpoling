@@ -4,7 +4,8 @@
 * 🎨 experimental art  
 * 💻 human-computer interaction  
 
-feel free to take a look at my pinned projects for some of my favorite things I've worked on!
+feel free to take a look at my pinned projects for some of my favorite things I've worked on!  
+and of course email me if you would like to get in contact
 <!--
 **tannerpoling/tannerpoling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
