@@ -1,5 +1,5 @@
-🌊 ocean techology  
-🎨 experimental art  
+🌊 ocean techology @ mbari  
+🎨 experimental art @ ete  
 💻 human-computer interaction  
   
 feel free to email  
